@@ -1,0 +1,16 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(./images/flower-g5eb53b38f_1280.jpg);
+}
+h1 {
+  font-family: Sriracha;
+  font-size: 15vh;
+  color: #ffffff;
+  margin-left: 9%;
+  margin-top: 25%;
+  align-items: center;
+  justify-content: center;
+
+  text-shadow: 2px 2px 4px #000000;
+}
